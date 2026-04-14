@@ -20,3 +20,7 @@ The process involved initializing a generated image and optimizing it through mu
 
 Through this project, I gained practical experience in applying deep learning for creative tasks. It demonstrated how neural networks can be used beyond traditional applications, enabling the fusion of art and technology to produce visually appealing results.
 
+
+#OUTPUT
+
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/84e7a327-064c-454c-a749-a902e50dbbfa" />
